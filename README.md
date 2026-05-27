@@ -1,4 +1,4 @@
-# atwerk Meldungen (v3.0.0)
+# awork Meldungen (v3.0.0)
 
 **atwerk** ist eine schlanke, performante Google Chrome Extension, die als persistente Bridge für awork-Benachrichtigungen fungiert. Da Benachrichtigungen im nativen System flüchtig sind und nach dem Lesen oft dauerhaft verschwinden, fängt dieses Tool die Daten per DOM-Scraping ab und sichert sie lokal in einem persistenten Speicher.
 
