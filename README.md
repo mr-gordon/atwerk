@@ -4,6 +4,8 @@ Eine hochentwickelte, datenschutzfreundliche Manifest V3 Chrome Extension, die e
 
 Die Extension überwacht das awork-DOM im Hintergrund, fängt neue Benachrichtigungen in Echtzeit ab und speichert sie lokal im Browser. Dadurch gehen Benachrichtigungen nie wieder verloren, selbst wenn das native awork-Dropdown geschlossen wird oder Meldungen dort automatisch verschwinden.
 
+<img src="https://www.christopherwinker.de/tools/data/screen-atwerk.jpg" alt="Vorschau" width="100%">
+
 ---
 
 ## Features
