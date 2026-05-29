@@ -8,6 +8,25 @@ Die Extension überwacht das awork-DOM im Hintergrund, fängt neue Benachrichtig
 
 ---
 
+## Installation
+
+### Offizieller Release (Empfohlen)
+Die Extension kann direkt aus dem Google Chrome Web Store installiert werden. Updates erfolgen hierbei vollautomatisch:
+
+**[Jetzt im Chrome Web Store herunterladen](https://chromewebstore.google.com/detail/gbpahdhkjhnhdiidoaohejmielmnbkaa?utm_source=item-share-cb)**
+
+### Manuelle Installation (Entwicklermodus)
+Falls du die Extension direkt aus dem Quellcode installieren oder modifizieren möchtest, kannst du sie im Entwicklermodus von Google Chrome (oder anderen Chromium-Browsern wie Brave, Edge, Opera) laden:
+
+1. Lade dieses Repository als ZIP-Datei herunter und entpacke es (oder clone es direkt via Git).
+2. Öffne Google Chrome und navigiere zu `chrome://extensions/`.
+3. Aktiviere den **Entwicklermodus** (Schalter oben rechts).
+4. Klicke auf **Entpackte Erweiterung laden** (oben links).
+5. Wähle den entpackten Ordner aus, der die `manifest.json` enthält.
+6. Fertig! Pinne die Extension in deiner Menüleiste für schnellen Zugriff.
+
+---
+
 ## Features
 
 * **Intelligente Filter & Inbox**: Schneller Zugriff auf *Eingang* (Meldungen ohne Ordner), *Ungelesen*, *Gelesen*, *Angepinnt* und den *Papierkorb*.
@@ -23,19 +42,6 @@ Die Extension überwacht das awork-DOM im Hintergrund, fängt neue Benachrichtig
 * **Backup & Datensicherheit**: Exportiere deine gesamte lokale Meldungs-Datenbank und Ordnerstruktur als `.json`-Datei und importiere sie auf anderen Geräten.
 * **Multi-Select & Bulk-Aktionen**: Wähle mehrere Meldungen mit gehaltener `Shift`- oder `Ctrl`/`Cmd`-Taste aus, um sie gesammelt als gelesen zu markieren, zu pinnen oder zu löschen.
 * **Responsives Popup & Tab-Modus**: Das Popup passt seine Größe automatisch an den Inhalt an, lässt sich aber auch manuell skalieren. Über das Einstellungsmenü kann das Dashboard als vollwertiger Browser-Tab geöffnet werden.
-
----
-
-## Installation (Entwicklermodus)
-
-Da die Extension als maßgeschneidertes Tool entwickelt wurde, kann sie ganz einfach im Entwicklermodus von Google Chrome (oder anderen Chromium-Browsern wie Brave, Edge oder Opera) installiert werden:
-
-1. Lade dieses Repository als ZIP-Datei herunter und entpacke es (oder clone es direkt via Git).
-2. Öffne Google Chrome und navigiere zu `chrome://extensions/`.
-3. Aktiviere den **Entwicklermodus** (Schalter oben rechts).
-4. Klicke auf **Entpackte Erweiterung laden** (oben links).
-5. Wähle den entpackten Ordner aus, der die `manifest.json` enthält.
-6. Fertig! Pinne die Extension in deiner Menüleiste für schnellen Zugriff.
 
 ---
 
